@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings and Viewings
 parent_type: CourseSection
+parent_uid: 132134ef-0100-2ab3-f004-14e4f5c54d9b
 resourcetype: Document
 title: "Growing Old Together: Following As the World Turns\u2019 Tom Hughes Through\
   \ the Years"

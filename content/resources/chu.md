@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b2aabbf4-2e63-a005-19c9-c205fffd4f2a
 resourcetype: Document
 title: Soap Operas and Teen Dramas
 uid: 5e1a5c07-6073-edf0-8f91-d8ccff705891

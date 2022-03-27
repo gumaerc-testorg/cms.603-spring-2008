@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: b2aabbf4-2e63-a005-19c9-c205fffd4f2a
 resourcetype: Document
 title: The Effect of the Youtube Phenomenon on the Soap Opera Text
 uid: ff220a2e-93b1-31dc-588c-9ecbd2b993f9
