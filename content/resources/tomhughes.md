@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Reading assignment: Ford, Sam. "Growing Old Together: Following As the
   World Turns'' Tom Hughes Through the Years."'
-file: /courses/cms-603-american-soap-operas-spring-2008/f654c9ce2472529205b62928d7a55b08_tomhughes.pdf
+file: /ol-ocw-studio-app/courses/cms-603-american-soap-operas-spring-2008/f654c9ce2472529205b62928d7a55b08_tomhughes.pdf
+file_size: 142071
 file_type: application/pdf
 learning_resource_types:
 - Readings

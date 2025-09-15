@@ -28,7 +28,9 @@
   },
   "course_title": "American Soap Operas",
   "course_description": "The television landscape has changed drastically in the past few years; nowhere is this more prevalent than in the American daytime serial drama, one of the oldest forms of television content. This class examines the history of these \"soap operas\" and their audiences by focusing on the production, consumption, and media texts of soaps. The class will include discussions of what makes soap operas a unique form, the history of the genre, current experimentation with transmedia storytelling, the online fan community, and comparisons between daytime dramas and primetime serials from _24_ to _Friday Night Lights_, through a study of Procter & Gamble's _As the World Turns_.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "CMS.995",
   "primary_course_number": "CMS.603",
   "course_image_thumbnail": {
@@ -38,6 +40,8 @@
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],
-  "site_uid": "9e0b272b-0b57-46b3-88a9-7850185197ee",
+  "site_uid": "6988d2fe-00fa-4ee7-bf19-d17b1c003b97",
+  "site_short_id": "cms.603-spring-2008",
+  "site_url_path": "courses/cms-603-american-soap-operas-spring-2008",
   "title": "Course Metadata"
 }

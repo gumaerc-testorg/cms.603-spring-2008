@@ -27,7 +27,7 @@ Fiske, John. "Gendered Television: Femininity." _Television Culture_. London, En
 
 Flitterman-Lewis, Sandy. "All's Well that Doesn't End: Soap Opera and the Marriage Motif." _Private Screenings: Television and the Female Consumer_. Edited by Lynn Spiegel and Denise Mann. Minneapolis, MN: University of Minnesota Press, 1992, pp. 216-225. ISBN: 9780816620531.
 
-Ford, Sam. "As the World Turns in a Convergence Culture." Master's thesis, MIT, 2007. ([PDF]({{< baseurl >}}/resources/samford2007))
+Ford, Sam. "As the World Turns in a Convergence Culture." Master's thesis, MIT, 2007. ({{% resource_link 89fa716f-902b-c9c5-17ad-b7bfb042930a "PDF" %}})
 
  Frentz, Suzanne.  _Staying Tuned: Contemporary Soap Opera Criticism_. Bowling Green, OH: Bowling Green State University Popular Press, 1992, pp. 48-53 and 96-102. ISBN: 9780879725372.
 
@@ -112,7 +112,7 @@ Phillips, Irna. Untitled Article, 1972.
 
 Matelski, Marilyn J. _Soap Operas Worldwide: Cultural and Serial Realities_.
 
-Ford, Sam. "Growing Old Together: Following _As the World Turns'_ Tom Hughes Through the Years." ([PDF]({{< baseurl >}}/resources/tomhughes))
+Ford, Sam. "Growing Old Together: Following _As the World Turns'_ Tom Hughes Through the Years." ({{% resource_link f654c9ce-2472-5292-05b6-2928d7a55b08 "PDF" %}})
 
 
 {{< tdclose >}}

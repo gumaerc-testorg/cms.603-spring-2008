@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/cms-603-american-soap-operas-spring-2008/6645c6f87527ed8ba5585a79367a5e9e_cms-608s08-th.jpg
+file: /ol-ocw-studio-app/courses/cms-603-american-soap-operas-spring-2008/6645c6f87527ed8ba5585a79367a5e9e_cms-608s08-th.jpg
+file_size: 5339
 file_type: image/jpeg
 image_metadata:
   caption: Tuning into soap operas has become a daily ritual for television watchers

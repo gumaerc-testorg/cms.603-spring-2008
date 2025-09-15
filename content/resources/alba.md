@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Example of student work: "The Effect of the YouTube Phenomenon on the
   Soap Opera Text," by Ernest Alba. '
-file: /courses/cms-603-american-soap-operas-spring-2008/ff220a2e93b131dc588c9ecbd2b993f9_alba.pdf
+file: /ol-ocw-studio-app/courses/cms-603-american-soap-operas-spring-2008/ff220a2e93b131dc588c9ecbd2b993f9_alba.pdf
+file_size: 42836
 file_type: application/pdf
 learning_resource_types:
 - Assignments

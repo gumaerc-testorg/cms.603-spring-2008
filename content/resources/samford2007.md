@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Reading assignment: Ford, Sam. "As the World Turns in a Convergence
   Culture." Master''s thesis, MIT, 2007.'
-file: /courses/cms-603-american-soap-operas-spring-2008/89fa716f902bc9c517adb7bfb042930a_samford2007.pdf
+file: /ol-ocw-studio-app/courses/cms-603-american-soap-operas-spring-2008/89fa716f902bc9c517adb7bfb042930a_samford2007.pdf
+file_size: 705166
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -2,7 +2,8 @@
 content_type: resource
 description: 'Example of student work: "Soap Operas and Teen Dramas," by Katharine
   Chu. '
-file: /courses/cms-603-american-soap-operas-spring-2008/5e1a5c076073edf08f91d8ccff705891_chu.pdf
+file: /ol-ocw-studio-app/courses/cms-603-american-soap-operas-spring-2008/5e1a5c076073edf08f91d8ccff705891_chu.pdf
+file_size: 167989
 file_type: application/pdf
 learning_resource_types:
 - Assignments

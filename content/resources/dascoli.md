@@ -2,7 +2,8 @@
 content_type: resource
 description: "Example of student work: \"Neighbours \u2014 Good Friends and Good Success,\"\
   \ by Jenn D'Ascoli."
-file: /courses/cms-603-american-soap-operas-spring-2008/f81107e26df0a2a5cedf5e4b1bb445f8_dascoli.pdf
+file: /ol-ocw-studio-app/courses/cms-603-american-soap-operas-spring-2008/f81107e26df0a2a5cedf5e4b1bb445f8_dascoli.pdf
+file_size: 81473
 file_type: application/pdf
 learning_resource_types:
 - Assignments

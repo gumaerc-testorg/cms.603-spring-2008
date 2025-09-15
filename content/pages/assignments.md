@@ -31,13 +31,13 @@ The term paper may be on any topic as long as it is approved through discussion 
 
 Some examples of student term papers are presented here. All are published courtesy the students named, and used with permission.
 
-Ernest Alba. "The Effect of the YouTube Phenomenon on the Soap Opera Text." ([PDF]({{< baseurl >}}/resources/alba))
+Ernest Alba. "The Effect of the YouTube Phenomenon on the Soap Opera Text." ({{% resource_link ff220a2e-93b1-31dc-588c-9ecbd2b993f9 "PDF" %}})
 
-Katharine Chu. "Soap Operas and Teen Dramas." ([PDF]({{< baseurl >}}/resources/chu))
+Katharine Chu. "Soap Operas and Teen Dramas." ({{% resource_link 5e1a5c07-6073-edf0-8f91-d8ccff705891 "PDF" %}})
 
-Jenn D'Ascoli. "_Neighbours_ — Good Friends and Good Success." ([PDF]({{< baseurl >}}/resources/dascoli))
+Jenn D'Ascoli. "_Neighbours_ — Good Friends and Good Success." ({{% resource_link f81107e2-6df0-a2a5-cedf-5e4b1bb445f8 "PDF" %}})
 
-Nick Shearer. "As The World Turns in the Digital Age: A Study of Soaps and Streaming Media." ([PDF]({{< baseurl >}}/resources/shearer))
+Nick Shearer. "As The World Turns in the Digital Age: A Study of Soaps and Streaming Media." ({{% resource_link e669193e-ed7a-501d-c707-e764397cdb1a "PDF" %}})
 
 In-class Participation
 ----------------------
