@@ -6,7 +6,8 @@ file_size: 5339
 file_type: image/jpeg
 image_metadata:
   caption: Tuning into soap operas has become a daily ritual for television watchers
-    around the world. (Photo by [jof](http://www.flickr.com/photos/jof) on Flickr.)
+    around the world. (Photo by {{% resource_link "8ae6faf0-00bf-4b7f-9971-cd52147b5606"
+    "jof" %}} on Flickr.)
   credit: ''
   image-alt: A hand turns on a small vintage television set.
 learning_resource_types: []

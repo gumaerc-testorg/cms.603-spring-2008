@@ -43,7 +43,7 @@ Levine, Elana. "Toward a Paradigm for Media Production Research: Behind the Scen
 
 Liccardo, Lynn. "Who Really Watches the Daytime Soaps?" _Soap Opera Weekly_, 30 April 1996.
 
-Marland, Doug. "[How Not To Wreck a Show](http://www.welovesoaps.net/2008/09/douglas-marland-how-not-to-wreck-show.html)." _Soap Opera Digest_, 27 April 1993.
+Marland, Doug. "{{% resource_link "51703bc2-2427-4cd2-826b-c9f3fda1d405" "How Not To Wreck a Show" %}}." _Soap Opera Digest_, 27 April 1993.
 
 Matelski, Marilyn J. _Soap Operas Worldwide: Cultural and Serial Realities_. Jefferson, NC: McFarland & Co., 1999, pp. 1-33. ISBN: 9780786405572.
 
