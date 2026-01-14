@@ -7,7 +7,7 @@ title: Assignments
 uid: b2aabbf4-2e63-a005-19c9-c205fffd4f2a
 ---
 
-{{% resource_link "9e1a60b1-6f2e-440a-8bb1-08231197ca5b" "Class Blog" %}}
+[Class Blog](http://mitsoaps.wordpress.com/)
 --------------------------------------------
 
 Many soap fans feel that there are not enough sites that facilitate serious discussions about soaps. I hope that, through our tackling of scholarship on soaps and linking those readings to a current soap opera text, our class blog can become a site of interest not just to those of us involved in the course but to other scholars, soap fans, and even those involved in the soap opera industry.
